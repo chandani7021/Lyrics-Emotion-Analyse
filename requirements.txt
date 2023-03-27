@@ -1,0 +1,11 @@
+gunicorn
+Flask
+requests
+flask_wtf
+wtforms
+nltk
+sklearn
+pandas
+regex
+joblib
+googletrans
